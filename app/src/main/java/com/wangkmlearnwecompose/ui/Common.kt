@@ -18,7 +18,7 @@ import dev.chrisbanes.accompanist.insets.statusBarsPadding
 /**
  * @author: created by wangkm
  * @time: 2021/05/23 22:35
- * @desc：公共的主题
+ * @desc：save common ui
  * @email: 1240413544@qq.com
  */
 
